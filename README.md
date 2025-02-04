@@ -50,6 +50,7 @@ Ensure **Node.js** and **npm** are installed on your machine. You can download t
 
 ![Voting App Screenshot](./assets/screenshot.png)
 
+
 ---
 
 ## Technologies Used
